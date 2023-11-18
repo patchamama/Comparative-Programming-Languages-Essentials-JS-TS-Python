@@ -2,10 +2,11 @@
 
 ## Descripción
 
-## Tabla de contenidos
+## Tabla de contenidos
 
 - [Comparative Programming Languages (Javascript, TypeScript, Python). Rapid Guide](#comparative-programming-languages-javascript-typescript-python-rapid-guide)
   - [Descripción](#descripción)
+  - [Tabla de contenidos](#tabla-de-contenidos)
   - [Instalación](#instalación)
   - [Resumen](#resumen)
   - [Variables y Tipos de Datos](#variables-y-tipos-de-datos)
@@ -29,6 +30,8 @@
 ## Instalación
 
 ## Resumen
+
+**Ver en:** [PythonTutor]() | [Repl.it](https://replit.com/) | [TypeScript Playground](https://www.typescriptlang.org/)
 
 <table>
 <tr>
