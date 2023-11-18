@@ -24,6 +24,7 @@
     - [JavaScript](#javascript-3)
     - [TypeScript](#typescript-3)
     - [Python](#python-3)
+  - [Referencias](#referencias)
 
 ## Instalación
 
@@ -31,10 +32,10 @@
 
 <table>
 <tr>
-<th width="440px" align="center"><b>Características</b></th>
-<th width="440px" align="center"><b>Javascript</b></th>
-<th width="440px" align="center"><b>TypeScript</b></th>
-<th width="440px" align="center"><b>Python</b></th></tr>
+<th align="center"><b>Características</b></th>
+<th align="center"><b>Javascript</b></th>
+<th align="center"><b>TypeScript</b></th>
+<th align="center"><b>Python</b></th></tr>
 <tr><td><b> Tipado Dinámico</b></td><td>
 
 ```javascript
@@ -1235,3 +1236,7 @@ persona = Persona("Carlos", 28)
 print(persona.nombre)
 persona.saludar()
 ```
+
+## Referencias
+
+- https://github.com/midudev/preguntas-entrevista-react#qu%C3%A9-javascript-necesito-para-aprender-react
