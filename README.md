@@ -295,7 +295,10 @@ let persona = {
 </td><td>
 
 ```typescript
-let persona: { nombre: string; edad: number } = { nombre: 'Ana', edad: 30 }
+let persona: { nombre: string; edad: number } = {
+  nombre: 'Ana',
+  edad: 30,
+}
 ```
 
 </td><td>
@@ -362,7 +365,9 @@ let diccionario = { clave: 'valor' }
 </td><td>
 
 ```typescript
-let diccionario: { [clave: string]: string } = { clave: 'valor' }
+let diccionario: { [clave: string]: string } = {
+  clave: 'valor',
+}
 ```
 
 </td><td>
@@ -556,7 +561,10 @@ let persona = { nombre, edad }
 ```typescript
 let nombre: string = 'John'
 let edad: number = 30
-let persona: { nombre: string; edad: number } = { nombre, edad }
+let persona: { nombre: string; edad: number } = {
+  nombre,
+  edad,
+}
 ```
 
 </td><td>
@@ -581,7 +589,10 @@ let { nombre, edad } = persona
 </td><td>
 
 ```typescript
-let persona: { nombre: string; edad: number } = { nombre: 'John', edad: 25 }
+let persona: { nombre: string; edad: number } = {
+  nombre: 'John',
+  edad: 25,
+}
 let { nombre, edad } = persona
 ```
 
