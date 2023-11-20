@@ -29,6 +29,10 @@
 
 ## Instalación
 
+- [Comparing Javascript and Python - Lists, Arrays and Hashed Lists](https://codethesaurus-prod.herokuapp.com/compare/?concept=lists&lang=javascript%3BECMAScript+2020&lang=python%3B3)
+- [Comparing Javascript and Python - Control Structures](https://codethesaurus-prod.herokuapp.com/compare/?concept=control_structures&lang=javascript%3BECMAScript+2020&lang=python%3B3)
+- [Comparing Javascript and Python - Classes](https://codethesaurus-prod.herokuapp.com/compare/?concept=classes&lang=javascript%3BECMAScript+2020&lang=python%3B3)
+
 ## Resumen
 
 **Ver en:** [PythonTutor]() | [Repl.it](https://replit.com/) | [TypeScript Playground](https://www.typescriptlang.org/)
