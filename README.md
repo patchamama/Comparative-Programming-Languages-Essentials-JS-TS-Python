@@ -7,7 +7,7 @@
 - [Comparative Programming Languages (Javascript, TypeScript, Python). Rapid Guide](#comparative-programming-languages-javascript-typescript-python-rapid-guide)
   - [Descripción](#descripción)
   - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Instalación](#instalación)
+  - [Referencias útiles](#referencias-útiles)
   - [Resumen](#resumen)
   - [Variables y Tipos de Datos](#variables-y-tipos-de-datos)
     - [JavaScript](#javascript)
@@ -27,11 +27,12 @@
     - [Python](#python-3)
   - [Referencias](#referencias)
 
-## Instalación
+## Referencias útiles
 
 - [Comparing Javascript and Python - Lists, Arrays and Hashed Lists](https://codethesaurus-prod.herokuapp.com/compare/?concept=lists&lang=javascript%3BECMAScript+2020&lang=python%3B3)
 - [Comparing Javascript and Python - Control Structures](https://codethesaurus-prod.herokuapp.com/compare/?concept=control_structures&lang=javascript%3BECMAScript+2020&lang=python%3B3)
 - [Comparing Javascript and Python - Classes](https://codethesaurus-prod.herokuapp.com/compare/?concept=classes&lang=javascript%3BECMAScript+2020&lang=python%3B3)
+- [component-party](https://component-party.dev/)
 
 ## Resumen
 
@@ -1258,3 +1259,4 @@ persona.saludar()
 ## Referencias
 
 - https://github.com/midudev/preguntas-entrevista-react#qu%C3%A9-javascript-necesito-para-aprender-react
+- https://github.com/codethesaurus/codethesaur.us
