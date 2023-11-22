@@ -34,6 +34,7 @@
 - [Comparing Javascript and Python - Classes](https://codethesaurus-prod.herokuapp.com/compare/?concept=classes&lang=javascript%3BECMAScript+2020&lang=python%3B3)
 - [component-party](https://component-party.dev/)
 - [Javascript Language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
+- [Angular Oficial tutorial](https://angular.dev/tutorials/learn-angular)
 
 ## Resumen
 
