@@ -1261,4 +1261,4 @@ persona.saludar()
 ## Referencias
 
 - https://github.com/midudev/preguntas-entrevista-react#qu%C3%A9-javascript-necesito-para-aprender-react
-- https://github.com/codethesaurus/codethesaur.us
+- https://codethesaurus-prod.herokuapp.com/ (https://github.com/codethesaurus/codethesaur.us)
